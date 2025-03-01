@@ -1,6 +1,6 @@
 <!-- <img src="banner_github.png" alt="GitHub Banner" width="100%" /> -->
 #  Hello World! I'm Kshitij 👋
-<br>💻 Passionate Developer | 🐍 Python Aficionado | 🚀 Tech Explorer<br><br>🌟 **About Me**<br>🔭 I’m currently brainstorming my next big project! Stay tuned.<br>💡 Solving problems, one line of code at a time! 🔥<br>🎓 Pursuing B.Tech in ECE; expected 2026.<br>🎯 Interested in Python frameworks like Django, Flask, FastAPI<br>🌱 Exploring Pandas, NumPy<br>🎨 Occasionally dabbling in UI/UX & Design, while also exploring the world of ML! 🚀
+<br>💻 **Passionate Developer** | 🐍 **Python Aficionado** | 🚀 **Tech Explorer**<br><br>🌟 **About Me**<br>🔭 I’m currently brainstorming my next big project! Stay tuned.<br>💡 Solving problems, one line of code at a time! 🔥<br>🎓 Pursuing B.Tech in ECE; expected 2026.<br>🎯 Interested in Python frameworks like Django, Flask, FastAPI<br>🌱 Exploring Pandas, NumPy<br>🎨 Occasionally dabbling in UI/UX & Design, while also exploring the world of ML! 🚀
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Ksh264)
